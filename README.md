@@ -14,12 +14,12 @@
 <!-- =================== LEARNING DASHBOARD =================== -->
 ## 📊 Learning & Project Progress
 
-| Domain | Repository | Status | Notes |
-|--------|-----------|--------|-------|
-| C Programming | [CProgramming,ProblemSolving&DSA](https://github.com/NAVINA-R/CProgramming-ProblemSolvingDSA) | 🟢 Active | Basics → Problem solving |
-| Java | [Java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) | 🟢 Active | Core Java concepts |
-| VLSI (RTL) | [VLSI-verilog](https://github.com/NAVINA-R/VLSI-RTL-DESIGN-VERILOG) | 🟢 Active | Verilog modules & simulations |
-| Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/Embedded-Web-Integration) | 🟢 Active | IoT / Sensor → Web integration |
+| Domain | Repository | 
+|--------|-----------|
+| C Programming | [CProgramming,ProblemSolving&DSA](https://github.com/NAVINA-R/CProgramming-ProblemSolvingDSA) | 
+| Java | [Java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) |
+| VLSI (RTL) | [VLSI-verilog](https://github.com/NAVINA-R/VLSI-RTL-DESIGN-VERILOG) |
+| Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/Embedded-Web-Integration) |
 
 ---
 
