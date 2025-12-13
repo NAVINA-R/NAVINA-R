@@ -16,13 +16,7 @@
 
 ---
 
-<!-- =================== CONTACT & SOCIAL =================== -->
-<p align="center">
-  <a href="mailto:navinarajavelu2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://www.linkedin.com/in/r-navina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
----
 
 <!-- =================== LEARNING DASHBOARD =================== -->
 ## 📊 Learning & Project Progress
@@ -96,3 +90,12 @@ Tools: <img height="30" src="https://img.icons8.com/color/48/git.png"/> <img hei
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAVINA-R&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAVINA-R&bg_color=000000&color=1a9e00&line=21e713&point=027000&area=true&hide_border=true)
 </div>
+
+<!-- =================== CONTACT & SOCIAL =================== -->
+  ## CONTACT ME VIA
+<p align="center">
+  <a href="mailto:navinarajavelu2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://www.linkedin.com/in/r-navina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
