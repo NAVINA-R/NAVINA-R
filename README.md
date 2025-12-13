@@ -114,11 +114,10 @@
   
 - **Campus energy management system** - Reduced power wastage by automating energy usage and integrating renewable and harvested energy sources.
 
-- **Wild Watchers** - An AI & IoT-driven, non-lethal Human-Wildlife Conflict mitigation system using smart detection, adaptive deterrents, and real-time community alerts to protect lives and biodiversity.
+- **Wild Watchers** - Non-lethal Human-Wildlife Conflict Mitigation system to protect lives and biodiversity.
   
-- **EmpowerHer** – AI-powered women’s safety platform that uses real-time crime data, smart navigation, and instant emergency response to ensure safer journeys through any web browser.
-
-- **Smart Traffic Management System**-AI & IOT based urban mobility solution that uses real-time AI analytics, adaptive signal control, predictive routing, and smart enforcementsafe & sustainable city traffic flow.
+- **EmpowerHer** – AI-powered women’s safety platform .
+- **Smart Traffic Management System**-AI & IOT based urban mobility solution for safe & sustainable city traffic flow.
   
 - **Earthquake Stabilized Dialysis System** - Real-time seismic-aware control system for automated dialysis machine stabilization and safe shutdown during earthquakes.
 ---
