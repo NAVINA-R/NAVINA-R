@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi, I'm Navina 👋</h1>
 <p align="center">
-  Pre-Final Year Student | CSE | VLSI • Embedded Systems • Software Integration
+  Pre-Final Year Student | ECE | • VLSI • C Programming • Java Programming • Embedded Systems • Website
 </p>
 <p align="center">
   Building strong fundamentals through hands-on projects and consistent learning.
@@ -18,7 +18,7 @@
 
 <!-- =================== CONTACT & SOCIAL =================== -->
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="mailto:navinarajavelu2005@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/in/r-navina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
