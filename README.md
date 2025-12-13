@@ -108,9 +108,9 @@
 
 <!-- =================== PROJECTS =================== -->
 ## 💻 Projects 
-- **Smart Urban Waste Management** - Sensor-enabled bins, GPS tracking, real-time data analytics, and route optimization.
+- **Smart Urban Waste Management System** - Sensor-enabled bins, GPS tracking, real-time data analytics, and route optimization.
   
-- **FarmXpert Website** - AI-powered web platform that helps farmers improve yield, detect plant diseases early, and adopt sustainable farming practices through smart recommendations and rewards.
+- **FarmXpert Website** - Helps farmers improve yield, detect plant diseases early, and adopt sustainable farming practices through smart recommendations and rewards.
   
 - **Campus energy management system** - Reduced power wastage by automating energy usage and integrating renewable and harvested energy sources.
 
