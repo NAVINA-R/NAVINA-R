@@ -56,7 +56,7 @@
 
 <b>VLSI / RTL Design</b>
 <br>
-<img height="32" src="https://logos-world.net/wp-content/uploads/2022/06/Cadence-Logo.png"/>
+<img height="32" src="https://www.cadence.com/content/dam/cadence-www/global/en_US/images/site-images/common/social-thumbnail.jpg"/>
 <img height="32" src="https://siliconpatterns.com/wp-content/uploads/2025/10/11.png"/>
 <img height="32" src="https://avatars.githubusercontent.com/u/11648029?v=4"/>
 
