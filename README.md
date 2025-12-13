@@ -5,7 +5,7 @@
   Pre-Final Year Student | ECE | @ St.Joseph's Institute Of Technology
 </p>
 <p align="center">
-  | VLSI | C Programming | Java Programming | Embedded Systems | Website |
+  | VLSI | C Programming | Java Programming | Embedded Systems | Web Development |
 </p>
 <p align="center">
   Building strong fundamentals through hands-on projects and consistent learning.
