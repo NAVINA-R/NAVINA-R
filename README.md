@@ -107,7 +107,7 @@
   
 - **FarmXpert Website** - AI-powered web platform that helps farmers improve yield, detect plant diseases early, and adopt sustainable farming practices through smart recommendations and rewards.
   
--  **Smart campus energy management system** - Reduced power wastage by automating energy usage and integrating renewable and harvested energy sources.
+- **Campus energy management system** - Reduced power wastage by automating energy usage and integrating renewable and harvested energy sources.
 
 - **Wild Watchers** - An AI & IoT-driven, non-lethal Human-Wildlife Conflict mitigation system using smart detection, adaptive deterrents, and real-time community alerts to protect lives and biodiversity.
   
