@@ -17,9 +17,9 @@
 | Domain | Repository | Status | Notes |
 |--------|-----------|--------|-------|
 | C Programming | [CProgramming,ProblemSolving&DSA](https://github.com/NAVINA-R/CProgramming-ProblemSolvingDSA) | 🟢 Active | Basics → Problem solving |
-| Java | [java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) | 🟢 Active | Core Java concepts |
+| Java | [Java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) | 🟢 Active | Core Java concepts |
 | VLSI (RTL) | [VLSI-verilog](https://github.com/NAVINA-R/VLSI-RTL-DESIGN-VERILOG) | 🟢 Active | Verilog modules & simulations |
-| Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/embedded-web-integration-basics) | 🟢 Active | IoT / Sensor → Web integration |
+| Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/Embedded-Web-Integration) | 🟢 Active | IoT / Sensor → Web integration |
 
 ---
 
@@ -68,16 +68,6 @@
 - [ ] Web dashboard integration  
 - [ ] Full IoT prototype  
 
-> Each task will be updated as progress is made.
 
 ---
 
-<!-- =================== MERMAID DIAGRAMS =================== -->
-## 🧩 System Overview (VLSI & Embedded Integration)
-
-### VLSI Data Flow
-```mermaid
-flowchart LR
-    InputSignal --> RTLModule
-    RTLModule --> Testbench
-    Testbench --> SimulationOutput
