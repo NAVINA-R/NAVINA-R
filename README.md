@@ -19,7 +19,7 @@
 <!-- =================== CONTACT & SOCIAL =================== -->
 <p align="center">
   <a href="mailto:youremail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/r-navina/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
