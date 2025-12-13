@@ -102,12 +102,20 @@
 ---
 
 <!-- =================== PROJECTS =================== -->
-## 💻 Projects
-- 🎨 **Portfolio Builder** – Dynamic web app to create and customize portfolios  
-- 🔍 **FarmXpert Website** – Sustainable farming platform with data analytics  
-- 💡 **Smart Home Automation** – Fully automated IoT home system  
-- 🏭 **Coal Mining Safety System** – IoT solution for worker safety
+## 💻 Projects 
+- **Smart Urban Waste Management** - Sensor-enabled bins, GPS tracking, real-time data analytics, and route optimization.
+  
+- **FarmXpert Website** - AI-powered web platform that helps farmers improve yield, detect plant diseases early, and adopt sustainable farming practices through smart recommendations and rewards.
+  
+-  **Smart campus energy management system** - Reduced power wastage by automating energy usage and integrating renewable and harvested energy sources.
 
+- **Wild Watchers** - An AI & IoT-driven, non-lethal Human-Wildlife Conflict mitigation system using smart detection, adaptive deterrents, and real-time community alerts to protect lives and biodiversity.
+  
+- **EmpowerHer** – AI-powered women’s safety platform that uses real-time crime data, smart navigation, and instant emergency response to ensure safer journeys through any web browser.
+
+- **Smart Traffic Management System**-AI & IOT based urban mobility solution that uses real-time AI analytics, adaptive signal control, predictive routing, and smart enforcementsafe & sustainable city traffic flow.
+  
+- **Earthquake Stabilized Dialysis System** - Real-time seismic-aware control system for automated dialysis machine stabilization and safe shutdown during earthquakes.
 ---
 
 <!-- =================== GITHUB STATS =================== -->
