@@ -55,16 +55,15 @@
 <br>
 
 <b>VLSI / RTL Design</b>
-
 <br>
-
 <img height="32" src="https://logos-world.net/wp-content/uploads/2022/06/Cadence-Logo.png"/>
 <img height="32" src="https://siliconpatterns.com/wp-content/uploads/2025/10/11.png"/>
 <img height="32" src="https://avatars.githubusercontent.com/u/11648029?v=4"/>
 
 <br>
 
-<b>Embedded Systems & IoT</b><br>
+<b>Embedded Systems & IoT</b>
+<br>
 <img height="32" src="https://img.icons8.com/fluent/48/arduino.png"/>
 
 <br>
