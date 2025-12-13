@@ -1,24 +1,23 @@
 <!-- =================== HEADER =================== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=31&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+Guys+!" alt="Typing SVG" />
-  </a>
-</div>
-
-<h1 align="center">Hi, I'm Navina 👋</h1>
+<h1 align="center">Hi Guys, I'm Navina 👋</h1>
+<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="center">
-  Pre-Final Year Student | ECE | • VLSI • C Programming • Java Programming • Embedded Systems • Website
+  Pre-Final Year Student | ECE | @ St.Joseph's Institute Of Technology
+</p>
+<p align="center">
+  | VLSI | C Programming | Java Programming | Embedded Systems | Website |
 </p>
 <p align="center">
   Building strong fundamentals through hands-on projects and consistent learning.
 </p>
-<img align="center" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
+
+
 
 
 
 <!-- =================== LEARNING DASHBOARD =================== -->
+---
 ## 📊 Learning & Project Progress
 
 | Domain | Repository | Progress | Status | Notes |
@@ -39,12 +38,38 @@
 <!-- =================== SKILLS =================== -->
 ## 🛠 Skills & Tools
 <div align="center">
-Programming: <img height="30" src="https://img.icons8.com/color/48/c-programming.png"/> <img height="30" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img height="30" src="https://img.icons8.com/color/48/python.png"/>  
-Web: <img height="30" src="https://img.icons8.com/color/48/html-5.png"/> <img height="30" src="https://img.icons8.com/color/48/css3.png"/> <img height="30" src="https://img.icons8.com/color/48/javascript.png"/> <img height="30" src="https://img.icons8.com/color/48/react-native.png"/>  
-Embedded / IoT: <img height="30" src="https://img.icons8.com/fluent/48/arduino.png"/> <img height="30" src="https://img.icons8.com/color/48/esp32.png"/>  
-Tools: <img height="30" src="https://img.icons8.com/color/48/git.png"/> <img height="30" src="https://img.icons8.com/color/48/github.png"/> <img height="30" src="https://img.icons8.com/color/48/vscode.png"/>
-</div>
 
+<b>Programming (Foundations)</b><br>
+<img height="32" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img height="32" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+
+<br>
+
+<b>Web Technologies (for Integration)</b><br>
+<img height="32" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="32" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="32" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="32" src="https://img.icons8.com/color/48/react-native.png"/>
+
+
+<br>
+
+<b>VLSI / RTL Design</b>
+<br>
+<img height="32" src="https://logos-world.net/wp-content/uploads/2022/06/Cadence-Logo.png"/>
+<img height="32" src="https://siliconpatterns.com/wp-content/uploads/2025/10/11.png"/>
+<img height="32" src="https://avatars.githubusercontent.com/u/11648029?v=4"/>
+<br>
+
+<b>Embedded Systems & IoT</b><br>
+<img height="32" src="https://img.icons8.com/fluent/48/arduino.png"/>
+<br>
+<b> Development Tools</b><br>
+<img height="32" src="https://img.icons8.com/color/48/git.png"/>
+<img height="32" src="https://img.icons8.com/color/48/github.png"/>
+<img height="32" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+
+</div>
 ---
 
 <!-- =================== LEARNING ROADMAP =================== -->
@@ -86,9 +111,18 @@ Tools: <img height="30" src="https://img.icons8.com/color/48/git.png"/> <img hei
 ---
 
 <!-- =================== GITHUB STATS =================== -->
+## STATS
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAVINA-R&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAVINA-R&bg_color=000000&color=1a9e00&line=21e713&point=027000&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NAVINA-R&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</p>
+</div>
+
+## ACTIVITY
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAVINA-R&bg_color=000000&color=1a9e00&line=21e713&point=027000&area=true&hide_border=true" />
+</p>
 </div>
 
 <!-- =================== CONTACT & SOCIAL =================== -->
