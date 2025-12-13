@@ -17,7 +17,7 @@
 | Domain | Repository | Status | Notes |
 |--------|-----------|--------|-------|
 | C Programming | [CProgramming,ProblemSolving&DSA](https://github.com/NAVINA-R/CProgramming-ProblemSolvingDSA) | 🟢 Active | Basics → Problem solving |
-| Java | [java-from-scratch](https://github.com/NAVINA-R/java-from-scratch) | 🟢 Active | Core Java, OOP concepts |
+| Java | [java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) | 🟢 Active | Core Java concepts |
 | VLSI (RTL) | [vlsi-rtl-verilog](https://github.com/NAVINA-R/vlsi-rtl-verilog) | 🟢 Active | Verilog modules & simulations |
 | Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/embedded-web-integration-basics) | 🟢 Active | IoT / Sensor → Web integration |
 
