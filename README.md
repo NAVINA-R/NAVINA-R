@@ -18,14 +18,14 @@
 
 <!-- =================== LEARNING DASHBOARD =================== -->
 ---
-## 📊 Learning & Project Progress
+## 📊 My Learning 
 
-| Domain | Repository | Progress | Status | Notes |
-|--------|-----------|---------|--------|-------|
-| C Programming | [CProgramming-ProblemSolvingDSA](https://github.com/NAVINA-R/CProgramming-ProblemSolvingDSA) | ![Progress](https://img.shields.io/badge/Progress-40%25-brightgreen) | 🟢 Active | Basics → Problem solving |
-| Java | [Java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) | ![Progress](https://img.shields.io/badge/Progress-30%25-blue) | 🟢 Active | Core Java concepts |
-| VLSI (RTL) | [VLSI-RTL-DESIGN-VERILOG](https://github.com/NAVINA-R/VLSI-RTL-DESIGN-VERILOG) | ![Progress](https://img.shields.io/badge/Progress-25%25-orange) | 🟢 Active | Verilog modules & simulations |
-| Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/Embedded-Web-Integration) | ![Progress](https://img.shields.io/badge/Progress-20%25-red) | 🟢 Active | IoT → Web dashboard |
+| Domain | Repository |
+|--------|-----------|
+| C Programming | [CProgramming-ProblemSolvingDSA](https://github.com/NAVINA-R/CProgramming-ProblemSolvingDSA) |
+| Java | [Java-from-scratch](https://github.com/NAVINA-R/JAVA-from-Scratch) | 
+| VLSI (RTL) | [VLSI-RTL-DESIGN-VERILOG](https://github.com/NAVINA-R/VLSI-RTL-DESIGN-VERILOG) |
+| Embedded + Web | [embedded-web-integration-basics](https://github.com/NAVINA-R/Embedded-Web-Integration) |
 
 ---
 
