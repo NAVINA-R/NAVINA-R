@@ -31,7 +31,7 @@
 
 <!-- =================== CONSISTENCY STREAK =================== -->
 ## 📈 Consistency Tracker
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVINA-R&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=NAVINA-R&theme=github-dark&hide_border=true&date=20251218)
 
 ---
 
